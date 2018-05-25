@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.util.List;
 
 /*
- * Entity Class for Users
+ * Entity Class for Users-- Sid Commit
  */
 @Entity
 @Table(name = "users", catalog = "test")
